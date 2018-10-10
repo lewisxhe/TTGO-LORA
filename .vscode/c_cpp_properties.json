@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Users\\XinYuan\\Documents\\Arduino\\tools\\**",
+                "C:\\Users\\XinYuan\\Documents\\Arduino\\hardware\\espressif\\esp32\\**",
+                "C:\\Users\\XinYuan\\Documents\\Arduino\\libraries\\arduino-LoRa-master",
+                "C:\\Users\\XinYuan\\Documents\\Arduino\\libraries\\Rtc",
+                "C:\\Users\\XinYuan\\Documents\\Arduino\\libraries\\esp8266-oled-ssd1306",
+                "C:/Users/XinYuan/Documents/Arduino/libraries/arduino-LoRa-master/src",
+                "C:/Users/XinYuan/Documents/Arduino/libraries/esp8266-oled-ssd1306/src",
+                "C:/Users/XinYuan/Documents/Arduino/libraries/Rtc/src"
+            ],
+            "forcedInclude": [],
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 4
+}
